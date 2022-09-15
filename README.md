@@ -1,5 +1,19 @@
 # CSA0954
-topics i have uploaded:
+day1:
+reverse a word
+username valid or not
+vote
+right angled triangle
+matrix addition
+simple interest
+maximum and minimum
+palindrome or not
+decimal to binary,octal number
+salary and bonus
+number into days ,months,year,weeks
+student user ratio
+
+day 2"
 -reverse number
 -lcm and gcd
 -pascal traiangle
@@ -8,3 +22,9 @@ topics i have uploaded:
 -count of prime and composite
 -denominations
 -first n perfect number
+student marks
+perfect squares and sum of digits
+permutations
+
+day3:
+
