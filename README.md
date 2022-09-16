@@ -66,3 +66,26 @@ number of composites numbers
 reverse the letters in alphabetical order
 sum of digits until become as single digit
 square root of number (postiveand negative)
+
+
+day 6:
+1.Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+Symbol Value
+2.Given two strings ransomNote and magazine, return true if ransomNote can be 
+constructed by using the letters from magazine and false otherwise. Each letter in 
+magazine can only be used once in ransomNote.
+3.Write a program to print hollow Square Dollar pattern?
+4.binary matrix
+5.stufdent marks and grades using multiple inheritence
+6.Using the concepts of thread with implementing Runnable interface in Java to find whether a 
+given number is prime or not
+7.Display Multiplication table for 5 and 10 using various stages of life cycle of the thread by 
+generating a suitable code in Java
+8.Write a program to find the number of composite numbers in an array of elements
+9.Find the nth odd number after n odd number
+10.Write a program for matrix multiplication
+11.Write a program to print inverted pyramid pattern
+12.Write a java code for a given an integer array nums, find the contiguous subarray (containing 
+at least one number) which has the largest sum and return its sum. A subarray is 
+a contiguous part of an array.
+
